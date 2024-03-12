@@ -1,0 +1,877 @@
+===================================================================================
+IMPORTANT NOTICE
+
+-DO NOT USE ANY OTHER DATA FILE, BESIDES THE DATA FILE THAT WAS PROVIDED FOR THIS PROGRAM
+-ONLY USE THE football23 DATA FILE
+===================================================================================
+
+Enter File Name: football23.txt
+The file was found, now processing the information...
+
+Enter the name of the output file: crewSeasonSchedules23.txt
+Schedules have been generated....
+Now terminating program....
+
+
+==============================================
+Here is the 1st set of Schedules
+==============================================
+
+Schedule for : Allen
+============================
+Week 1 : ARI@WSH
+Week 2 : GB@ATL
+Week 3 : NYG@SF
+Week 4 : MIN@CAR
+Week 5 : OFF
+Week 6 : IND@JAX
+Week 7 : LV@CHI
+Week 8 : NYJ@NYG
+Week 9 : OFF
+Week 10 : CLE@BAL
+Week 11 : PHI@KC
+Week 12 : LAR@ARI
+Week 13 : CAR@TB
+Week 14 : DEN@LAC
+Week 15 : CHI@CLE
+Week 16 : SEA@TEN
+Week 17 : DET@DAL
+Week 18 : ATL@NO
+ 
+Teams that were not played:  BUF CIN HOU MIA NE  
+
+============================
+
+Schedule for : Blake
+============================
+Week 1 : DAL@NYG
+Week 2 : CLE@PIT
+Week 3 : LAR@CIN
+Week 4 : TB@NO
+Week 5 : JAX@BUF
+Week 6 : DEN@KC
+Week 7 : SF@MIN
+Week 8 : NE@MIA
+Week 9 : NYG@LV
+Week 10 : CAR@CHI
+Week 11 : TEN@JAX
+Week 12 : SF@SEA
+Week 13 : OFF
+Week 14 : HOU@NYJ
+Week 15 : WSH@LAR
+Week 16 : BUF@LAC
+Week 17 : OFF
+Week 18 : CHI@GB
+ 
+Teams that were not played:  ARI ATL BAL DET IND  
+
+============================
+
+Schedule for : Blakeman
+============================
+Week 1 : CAR@ATL
+Week 2 : MIA@NE
+Week 3 : IND@BAL
+Week 4 : KC@NYJ
+Week 5 : GB@LV
+Week 6 : SF@CLE
+Week 7 : ATL@TB
+Week 8 : LAR@DAL
+Week 9 : IND@CAR
+Week 10 : WSH@SEA
+Week 11 : OFF
+Week 12 : NE@NYG
+Week 13 : KC@GB
+Week 14 : OFF
+Week 15 : SF@ARI
+Week 16 : CIN@PIT
+Week 17 : TEN@HOU
+Week 18 : BUF@MIA
+ 
+Teams that were not played:  CHI DEN DET JAX LAC MIN NO  
+
+============================
+
+Schedule for : Cheffers
+============================
+Week 1 : PHI@NE
+Week 2 : BAL@CIN
+Week 3 : LAC@MIN
+Week 4 : SEA@NYG
+Week 5 : NYJ@DEN
+Week 6 : CAR@MIA
+Week 7 : JAX@NO
+Week 8 : PHI@WSH
+Week 9 : LAR@GB
+Week 10 : OFF
+Week 11 : NYJ@BUF
+Week 12 : KC@LV
+Week 13 : CIN@JAX
+Week 14 : NE@PIT
+Week 15 : OFF
+Week 16 : CLE@HOU
+Week 17 : MIA@BAL
+Week 18 : LAR@SF
+ 
+Teams that were not played:  ARI ATL CHI DAL DET IND TB  
+
+============================
+
+Schedule for : Clark
+============================
+Week 1 : SF@PIT
+Week 2 : MIN@PHI
+Week 3 : BUF@WSH
+Week 4 : BAL@CLE
+Week 5 : HOU@ATL
+Week 6 : OFF
+Week 7 : GB@DEN
+Week 8 : CHI@LAC
+Week 9 : OFF
+Week 10 : ATL@ARI
+Week 11 : LV@MIA
+Week 12 : WSH@DAL
+Week 13 : CLE@LAR
+Week 14 : BUF@KC
+Week 15 : PHI@SEA
+Week 16 : ARI@CHI
+Week 17 : GB@MIN
+Week 18 : TB@CAR
+ 
+Teams that were not played:  CIN DET IND JAX NE NO NYG NYJ  
+
+============================
+
+Schedule for : Eck
+============================
+Week 1 : HOU@BAL
+Week 2 : CHI@TB
+Week 3 : DAL@ARI
+Week 4 : ATL@JAX
+Week 5 : KC@MIN
+Week 6 : OFF
+Week 7 : WSH@NYG
+Week 8 : CIN@SF
+Week 9 : CHI@NO
+Week 10 : IND@NE
+Week 11 : OFF
+Week 12 : GB@DET
+Week 13 : ATL@NYJ
+Week 14 : JAX@CLE
+Week 15 : HOU@TEN
+Week 16 : DAL@MIA
+Week 17 : NE@BUF
+Week 18 : KC@LAC
+ 
+Teams that were not played:  CAR DEN LV LAR PHI PIT  
+
+============================
+
+Schedule for : Hill
+============================
+Week 1 : GB@CHI
+Week 2 : SF@LAR
+Week 3 : PHI@TB
+Week 4 : CIN@TEN
+Week 5 : NYG@MIA
+Week 6 : WSH@ATL
+Week 7 : CLE@IND
+Week 8 : TB@BUF
+Week 9 : TEN@PIT
+Week 10 : OFF
+Week 11 : ARI@HOU
+Week 12 : BAL@LAC
+Week 13 : OFF
+Week 14 : PHI@DAL
+Week 15 : NYG@NO
+Week 16 : GB@CAR
+Week 17 : CIN@KC
+Week 18 : MIN@DET
+ 
+Teams that were not played:  DEN JAX LV NE NYJ  
+
+============================
+
+Schedule for : Hochuli
+============================
+Week 1 : LAR@SEA
+Week 2 : NO@CAR
+Week 3 : DEN@MIA
+Week 4 : DET@GB
+Week 5 : CHI@WSH
+Week 6 : ARI@LAR
+Week 7 : LAC@KC
+Week 8 : OFF
+Week 9 : TB@HOU
+Week 10 : OFF
+Week 11 : MIN@DEN
+Week 12 : NO@ATL
+Week 13 : ARI@PIT
+Week 14 : SEA@SF
+Week 15 : KC@NE
+Week 16 : DET@MIN
+Week 17 : CAR@JAX
+Week 18 : CLE@CIN
+ 
+Teams that were not played:  BAL BUF DAL IND LV NYG NYJ PHI  
+
+============================
+
+Schedule for : Hussey
+============================
+Week 1 : LV@DEN
+Week 2 : OFF
+Week 3 : NE@NYJ
+Week 4 : ARI@SF
+Week 5 : CAR@DET
+Week 6 : DAL@LAC
+Week 7 : PIT@LAR
+Week 8 : CLE@SEA
+Week 9 : MIN@ATL
+Week 10 : DEN@BUF
+Week 11 : CIN@BAL
+Week 12 : OFF
+Week 13 : MIA@WSH
+Week 14 : CAR@NO
+Week 15 : PIT@IND
+Week 16 : LV@KC
+Week 17 : NYJ@CLE
+Week 18 : JAX@TEN
+ 
+Teams that were not played:  CHI GB HOU NYG PHI  
+
+============================
+
+Schedule for : Kemp
+============================
+Week 1 : BUF@NYJ
+Week 2 : NYG@ARI
+Week 3 : CAR@SEA
+Week 4 : LAR@IND
+Week 5 : BAL@PIT
+Week 6 : MIN@CHI
+Week 7 : BUF@NE
+Week 8 : ATL@TEN
+Week 9 : ARI@CLE
+Week 10 : NYG@DAL
+Week 11 : CHI@DET
+Week 12 : JAX@HOU
+Week 13 : SF@PHI
+Week 14 : TB@ATL
+Week 15 : MIN@CIN
+Week 16 : OFF
+Week 17 : LAC@DEN
+Week 18 : OFF
+ 
+Teams that were not played:  GB KC LV MIA NO  
+
+============================
+
+Schedule for : Martin
+============================
+Week 1 : TEN@NO
+Week 2 : SEA@DET
+Week 3 : PIT@LV
+Week 4 : MIA@BUF
+Week 5 : PHI@LAR
+Week 6 : NO@HOU
+Week 7 : OFF
+Week 8 : BAL@ARI
+Week 9 : OFF
+Week 10 : TEN@TB
+Week 11 : NYG@WSH
+Week 12 : PIT@CIN
+Week 13 : SEA@DAL
+Week 14 : DET@CHI
+Week 15 : BAL@JAX
+Week 16 : NE@DEN
+Week 17 : LV@IND
+Week 18 : PHI@NYG
+ 
+Teams that were not played:  ATL CAR CLE GB KC LAC MIN NYJ  
+
+============================
+
+Schedule for : Novak
+============================
+Week 1 : CIN@CLE
+Week 2 : NYJ@DAL
+Week 3 : HOU@JAX
+Week 4 : LV@LAC
+Week 5 : TEN@IND
+Week 6 : DET@TB
+Week 7 : ARI@SEA
+Week 8 : JAX@PIT
+Week 9 : DAL@PHI
+Week 10 : HOU@CIN
+Week 11 : OFF
+Week 12 : CAR@TEN
+Week 13 : OFF
+Week 14 : MIN@LV
+Week 15 : NYJ@MIA
+Week 16 : IND@ATL
+Week 17 : SF@WSH
+Week 18 : PIT@BAL
+ 
+Teams that were not played:  BUF CHI DEN GB KC LAR NE NO  
+
+============================
+
+Schedule for : Rogers
+============================
+Week 1 : DET@KC
+Week 2 : WSH@DEN
+Week 3 : TEN@CLE
+Week 4 : OFF
+Week 5 : DAL@SF
+Week 6 : SEA@CIN
+Week 7 : OFF
+Week 8 : LV@DET
+Week 9 : WSH@NE
+Week 10 : NO@MIN
+Week 11 : LAC@GB
+Week 12 : MIA@NYJ
+Week 13 : IND@TEN
+Week 14 : LAR@BAL
+Week 15 : DAL@BUF
+Week 16 : NYG@PHI
+Week 17 : NO@TB
+Week 18 : SEA@ARI
+ 
+Teams that were not played:  ATL CAR CHI HOU JAX  
+
+============================
+
+Schedule for : Smith
+============================
+Week 1 : TB@MIN
+Week 2 : LAC@TEN
+Week 3 : CHI@KC
+Week 4 : PIT@HOU
+Week 5 : NO@NE
+Week 6 : NYG@BUF
+Week 7 : OFF
+Week 8 : MIN@GB
+Week 9 : SEA@BAL
+Week 10 : SF@JAX
+Week 11 : PIT@CLE
+Week 12 : TB@IND
+Week 13 : OFF
+Week 14 : GB@NYG
+Week 15 : ATL@CAR
+Week 16 : WSH@NYJ
+Week 17 : ARI@PHI
+Week 18 : DEN@LV
+ 
+Teams that were not played:  CIN DAL DET LAR  
+
+============================
+
+Schedule for : Torbert
+============================
+Week 1 : MIA@LAC
+Week 2 : KC@JAX
+Week 3 : NO@GB
+Week 4 : NE@DAL
+Week 5 : OFF
+Week 6 : BAL@TEN
+Week 7 : MIA@PHI
+Week 8 : KC@DEN
+Week 9 : BUF@CIN
+Week 10 : NYJ@LV
+Week 11 : DAL@CAR
+Week 12 : CHI@MIN
+Week 13 : LAC@NE
+Week 14 : OFF
+Week 15 : DEN@DET
+Week 16 : NO@LAR
+Week 17 : PIT@SEA
+Week 18 : HOU@IND
+ 
+Teams that were not played:  ARI ATL CLE NYG SF TB  
+
+============================
+
+Schedule for : Vinovich
+============================
+Week 1 : JAX@IND
+Week 2 : LV@BUF
+Week 3 : ATL@DET
+Week 4 : DEN@CHI
+Week 5 : OFF
+Week 6 : PHI@NYJ
+Week 7 : OFF
+Week 8 : HOU@CAR
+Week 9 : MIA@KC
+Week 10 : DET@LAC
+Week 11 : TB@SF
+Week 12 : BUF@PHI
+Week 13 : DEN@HOU
+Week 14 : IND@CIN
+Week 15 : LAC@LV
+Week 16 : JAX@TB
+Week 17 : LAR@NYG
+Week 18 : DAL@WSH
+ 
+Teams that were not played:  ARI BAL CLE GB MIN NE NO PIT SEA  
+
+============================
+
+Schedule for : Wrolstad
+============================
+Week 1 : OFF
+Week 2 : IND@HOU
+Week 3 : OFF
+Week 4 : WSH@PHI
+Week 5 : CIN@ARI
+Week 6 : NE@LV
+Week 7 : DET@BAL
+Week 8 : NO@IND
+Week 9 : LAC@NYJ
+Week 10 : GB@PIT
+Week 11 : SEA@LAR
+Week 12 : CLE@DEN
+Week 13 : DET@NO
+Week 14 : TEN@MIA
+Week 15 : TB@GB
+Week 16 : BAL@SF
+Week 17 : ATL@CHI
+Week 18 : NYJ@NE
+ 
+Teams that were not played:  BUF CAR DAL JAX KC MIN  
+
+============================
+
+==============================================
+
+==============================================
+Here is the 2nd set of Schedules
+==============================================
+
+Schedule for : Allen
+============================
+Week 1 : TEN@NO
+Week 2 : IND@HOU
+Week 3 : DAL@ARI
+Week 4 : DEN@CHI
+Week 5 : CAR@DET
+Week 6 : PHI@NYJ
+Week 7 : PIT@LAR
+Week 8 : TB@BUF
+Week 9 : NYG@LV
+Week 10 : OFF
+Week 11 : CIN@BAL
+Week 12 : CAR@TEN
+Week 13 : MIA@WSH
+Week 14 : OFF
+Week 15 : PIT@IND
+Week 16 : BAL@SF
+Week 17 : CIN@KC
+Week 18 : NYJ@NE
+ 
+Teams that were not played:  ATL CLE GB JAX LAC MIN  
+
+============================
+
+Schedule for : Blake
+============================
+Week 1 : ARI@WSH
+Week 2 : LAC@TEN
+Week 3 : CAR@SEA
+Week 4 : PIT@HOU
+Week 5 : OFF
+Week 6 : DEN@KC
+Week 7 : BUF@NE
+Week 8 : OFF
+Week 9 : DAL@PHI
+Week 10 : NO@MIN
+Week 11 : PIT@CLE
+Week 12 : LAR@ARI
+Week 13 : CAR@TB
+Week 14 : DEN@LAC
+Week 15 : MIN@CIN
+Week 16 : DAL@MIA
+Week 17 : LV@IND
+Week 18 : CHI@GB
+ 
+Teams that were not played:  ATL BAL DET JAX NYG NYJ  
+
+============================
+
+Schedule for : Blakeman
+============================
+Week 1 : CIN@CLE
+Week 2 : NO@CAR
+Week 3 : DEN@MIA
+Week 4 : SEA@NYG
+Week 5 : CHI@WSH
+Week 6 : DAL@LAC
+Week 7 : DET@BAL
+Week 8 : CIN@SF
+Week 9 : TB@HOU
+Week 10 : NYJ@LV
+Week 11 : OFF
+Week 12 : BUF@PHI
+Week 13 : SEA@DAL
+Week 14 : NE@PIT
+Week 15 : OFF
+Week 16 : NO@LAR
+Week 17 : ATL@CHI
+Week 18 : MIN@DET
+ 
+Teams that were not played:  ARI GB IND JAX KC  
+
+============================
+
+Schedule for : Cheffers
+============================
+Week 1 : SF@PIT
+Week 2 : LV@BUF
+Week 3 : CHI@KC
+Week 4 : TB@NO
+Week 5 : NYG@MIA
+Week 6 : BAL@TEN
+Week 7 : OFF
+Week 8 : MIN@GB
+Week 9 : BUF@CIN
+Week 10 : NYG@DAL
+Week 11 : SEA@LAR
+Week 12 : KC@LV
+Week 13 : SF@PHI
+Week 14 : OFF
+Week 15 : ATL@CAR
+Week 16 : DET@MIN
+Week 17 : LAC@DEN
+Week 18 : PIT@BAL
+ 
+Teams that were not played:  ARI CLE HOU IND JAX NE NYJ  
+
+============================
+
+Schedule for : Clark
+============================
+Week 1 : DET@KC
+Week 2 : NYG@ARI
+Week 3 : LAC@MIN
+Week 4 : ATL@JAX
+Week 5 : PHI@LAR
+Week 6 : DET@TB
+Week 7 : ARI@SEA
+Week 8 : NO@IND
+Week 9 : MIN@ATL
+Week 10 : GB@PIT
+Week 11 : LV@MIA
+Week 12 : WSH@DAL
+Week 13 : OFF
+Week 14 : IND@CIN
+Week 15 : TB@GB
+Week 16 : CLE@HOU
+Week 17 : LAR@NYG
+Week 18 : OFF
+ 
+Teams that were not played:  BAL BUF CAR CHI DEN NE NYJ SF  
+
+============================
+
+Schedule for : Eck
+============================
+Week 1 : GB@CHI
+Week 2 : KC@JAX
+Week 3 : TEN@CLE
+Week 4 : LAR@IND
+Week 5 : BAL@PIT
+Week 6 : SEA@CIN
+Week 7 : SF@MIN
+Week 8 : NE@MIA
+Week 9 : OFF
+Week 10 : ATL@ARI
+Week 11 : LAC@GB
+Week 12 : SF@SEA
+Week 13 : OFF
+Week 14 : HOU@NYJ
+Week 15 : DEN@DET
+Week 16 : BUF@LAC
+Week 17 : NO@TB
+Week 18 : DAL@WSH
+ 
+Teams that were not played:  CAR LV NYG  
+
+============================
+
+Schedule for : Hill
+============================
+Week 1 : HOU@BAL
+Week 2 : GB@ATL
+Week 3 : NYG@SF
+Week 4 : WSH@PHI
+Week 5 : KC@MIN
+Week 6 : ARI@LAR
+Week 7 : CLE@IND
+Week 8 : LV@DET
+Week 9 : CHI@NO
+Week 10 : TEN@TB
+Week 11 : OFF
+Week 12 : CLE@DEN
+Week 13 : ATL@NYJ
+Week 14 : DET@CHI
+Week 15 : KC@NE
+Week 16 : OFF
+Week 17 : TEN@HOU
+Week 18 : SEA@ARI
+ 
+Teams that were not played:  BUF CAR CIN DAL JAX LAC MIA  
+
+============================
+
+Schedule for : Hochuli
+============================
+Week 1 : LV@DEN
+Week 2 : CLE@PIT
+Week 3 : NE@NYJ
+Week 4 : MIN@CAR
+Week 5 : JAX@BUF
+Week 6 : NO@HOU
+Week 7 : OFF
+Week 8 : LAR@DAL
+Week 9 : MIA@KC
+Week 10 : IND@NE
+Week 11 : TEN@JAX
+Week 12 : PIT@CIN
+Week 13 : DET@NO
+Week 14 : GB@NYG
+Week 15 : LAC@LV
+Week 16 : SEA@TEN
+Week 17 : OFF
+Week 18 : BUF@MIA
+ 
+Teams that were not played:  ARI ATL BAL CHI PHI SF TB  
+
+============================
+
+Schedule for : Hussey
+============================
+Week 1 : MIA@LAC
+Week 2 : SEA@DET
+Week 3 : NO@GB
+Week 4 : NE@DAL
+Week 5 : TEN@IND
+Week 6 : OFF
+Week 7 : WSH@NYG
+Week 8 : CLE@SEA
+Week 9 : OFF
+Week 10 : HOU@CIN
+Week 11 : MIN@DEN
+Week 12 : MIA@NYJ
+Week 13 : LAC@NE
+Week 14 : LAR@BAL
+Week 15 : DAL@BUF
+Week 16 : NYG@PHI
+Week 17 : CAR@JAX
+Week 18 : ATL@NO
+ 
+Teams that were not played:  ARI CHI KC LV PIT SF  
+
+============================
+
+Schedule for : Kemp
+============================
+Week 1 : DAL@NYG
+Week 2 : CHI@TB
+Week 3 : HOU@JAX
+Week 4 : KC@NYJ
+Week 5 : OFF
+Week 6 : SF@CLE
+Week 7 : LV@CHI
+Week 8 : JAX@PIT
+Week 9 : IND@CAR
+Week 10 : WSH@SEA
+Week 11 : NYJ@BUF
+Week 12 : OFF
+Week 13 : CLE@LAR
+Week 14 : MIN@LV
+Week 15 : NYG@NO
+Week 16 : IND@ATL
+Week 17 : SF@WSH
+Week 18 : KC@LAC
+ 
+Teams that were not played:  ARI BAL CIN DEN DET GB MIA NE PHI  
+
+============================
+
+Schedule for : Martin
+============================
+Week 1 : OFF
+Week 2 : NYJ@DAL
+Week 3 : IND@BAL
+Week 4 : OFF
+Week 5 : HOU@ATL
+Week 6 : NE@LV
+Week 7 : LAC@KC
+Week 8 : NYJ@NYG
+Week 9 : ARI@CLE
+Week 10 : SF@JAX
+Week 11 : DAL@CAR
+Week 12 : BAL@LAC
+Week 13 : KC@GB
+Week 14 : TEN@MIA
+Week 15 : SF@ARI
+Week 16 : JAX@TB
+Week 17 : NE@BUF
+Week 18 : CLE@CIN
+ 
+Teams that were not played:  CHI DEN DET LAR MIN NO PHI PIT SEA  
+
+============================
+
+Schedule for : Novak
+============================
+Week 1 : LAR@SEA
+Week 2 : MIN@PHI
+Week 3 : PIT@LV
+Week 4 : MIA@BUF
+Week 5 : CIN@ARI
+Week 6 : IND@JAX
+Week 7 : ATL@TB
+Week 8 : KC@DEN
+Week 9 : OFF
+Week 10 : CAR@CHI
+Week 11 : OFF
+Week 12 : TB@IND
+Week 13 : ARI@PIT
+Week 14 : JAX@CLE
+Week 15 : HOU@TEN
+Week 16 : WSH@NYJ
+Week 17 : GB@MIN
+Week 18 : LAR@SF
+ 
+Teams that were not played:  BAL DAL DET LAC NE NO  
+
+============================
+
+Schedule for : Rogers
+============================
+Week 1 : TB@MIN
+Week 2 : MIA@NE
+Week 3 : LAR@CIN
+Week 4 : LV@LAC
+Week 5 : OFF
+Week 6 : MIN@CHI
+Week 7 : GB@DEN
+Week 8 : PHI@WSH
+Week 9 : LAC@NYJ
+Week 10 : OFF
+Week 11 : CHI@DET
+Week 12 : NE@NYG
+Week 13 : IND@TEN
+Week 14 : TB@ATL
+Week 15 : PHI@SEA
+Week 16 : GB@CAR
+Week 17 : MIA@BAL
+Week 18 : DEN@LV
+ 
+Teams that were not played:  ARI BUF CLE DAL HOU JAX KC NO PIT  
+
+============================
+
+Schedule for : Smith
+============================
+Week 1 : BUF@NYJ
+Week 2 : OFF
+Week 3 : PHI@TB
+Week 4 : DET@GB
+Week 5 : DAL@SF
+Week 6 : OFF
+Week 7 : JAX@NO
+Week 8 : CHI@LAC
+Week 9 : TEN@PIT
+Week 10 : CLE@BAL
+Week 11 : ARI@HOU
+Week 12 : NO@ATL
+Week 13 : CIN@JAX
+Week 14 : PHI@DAL
+Week 15 : CHI@CLE
+Week 16 : NE@DEN
+Week 17 : PIT@SEA
+Week 18 : TB@CAR
+ 
+Teams that were not played:  IND KC LV LAR MIA MIN NYG  
+
+============================
+
+Schedule for : Torbert
+============================
+Week 1 : CAR@ATL
+Week 2 : SF@LAR
+Week 3 : BUF@WSH
+Week 4 : CIN@TEN
+Week 5 : NYJ@DEN
+Week 6 : CAR@MIA
+Week 7 : OFF
+Week 8 : BAL@ARI
+Week 9 : WSH@NE
+Week 10 : OFF
+Week 11 : PHI@KC
+Week 12 : GB@DET
+Week 13 : DEN@HOU
+Week 14 : SEA@SF
+Week 15 : BAL@JAX
+Week 16 : ARI@CHI
+Week 17 : NYJ@CLE
+Week 18 : PHI@NYG
+ 
+Teams that were not played:  DAL IND LV LAC MIN NO PIT  
+
+============================
+
+Schedule for : Vinovich
+============================
+Week 1 : PHI@NE
+Week 2 : WSH@DEN
+Week 3 : ATL@DET
+Week 4 : BAL@CLE
+Week 5 : GB@LV
+Week 6 : NYG@BUF
+Week 7 : OFF
+Week 8 : ATL@TEN
+Week 9 : SEA@BAL
+Week 10 : DET@LAC
+Week 11 : TB@SF
+Week 12 : JAX@HOU
+Week 13 : OFF
+Week 14 : BUF@KC
+Week 15 : WSH@LAR
+Week 16 : CIN@PIT
+Week 17 : ARI@PHI
+Week 18 : HOU@IND
+ 
+Teams that were not played:  CAR CHI DAL MIA MIN NO  
+
+============================
+
+Schedule for : Wrolstad
+============================
+Week 1 : JAX@IND
+Week 2 : BAL@CIN
+Week 3 : OFF
+Week 4 : ARI@SF
+Week 5 : NO@NE
+Week 6 : WSH@ATL
+Week 7 : MIA@PHI
+Week 8 : HOU@CAR
+Week 9 : LAR@GB
+Week 10 : DEN@BUF
+Week 11 : NYG@WSH
+Week 12 : CHI@MIN
+Week 13 : OFF
+Week 14 : CAR@NO
+Week 15 : NYJ@MIA
+Week 16 : LV@KC
+Week 17 : DET@DAL
+Week 18 : JAX@TEN
+ 
+Teams that were not played:  CLE LAC PIT SEA  
+
+============================
+
+==============================================
+

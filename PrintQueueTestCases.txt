@@ -1,0 +1,19 @@
+Enter file name: printer.txt
+
+Job 1: 1 minute
+Job 2: 2 minutes
+Job 3: 5 minutes
+
+Run again (Y/N): g
+
+An invalid input was made, please try again
+Run again (Y/N): y
+
+Enter file name: PrinterTest.txt
+
+Job 1: 7 minutes
+Job 2: 9 minutes
+Job 3: 1 minute
+Job 4: 5 minutes
+
+Run again (Y/N): n

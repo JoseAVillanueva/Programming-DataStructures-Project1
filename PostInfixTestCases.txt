@@ -1,0 +1,27 @@
+Enter postfix expression: T R ^ I T - - O N * +
+
+Infix: T ^ R - (I - T) + O * N
+
+Run Again (Y/N): y
+
+Enter postfix expression: A B + C / D - E -
+
+Infix: (A + B) / C - D - E
+
+Run Again (Y/N): y
+
+Enter postfix expression: A B * C D / +
+
+Infix: A * B + C / D
+
+Run Again (Y/N): g
+An invalid input was made, please try again.
+Run Again (Y/N): h
+An invalid input was made, please try again.
+Run Again (Y/N): y
+
+Enter postfix expression: a b - d c / +
+
+Infix: (A - B) + D / C
+
+Run Again (Y/N): n
